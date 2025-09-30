@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides readings on implicatures, free choice disjunction
   and implicatures, modularity and embedded implicatures, alternatives, and presuppositions.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
